@@ -1,0 +1,15 @@
+{
+  "name": "auth_authorize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server-bearer.js"
+  },
+  "private": true,
+  "devDependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.7"
+  }
+}
